@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📝 I try to **make user-friendly experience for users**
+- 📝 I try to **make creative problem solving**
 
 - 💬 Ask me about **anything by my email at ts.tsetseg7@gmail.com**
 
-- 📫 How to reach me **you can contact me by my email also my LinkedIn profile down below.**
+- 📫 How to reach me **please feel free to reach out to me via email or connect with me on LinkedIn using my profile provided below.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
