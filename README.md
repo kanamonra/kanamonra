@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Uugantsetseg. You can call me Flora</h1>
 <h3 align="center">Welcome to my GitHub profile. I love programming, solving problem and achieving result from a great challenges.</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Flutter**
 
 - 📝 I try to **make creative problem solving**
 
