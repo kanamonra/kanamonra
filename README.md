@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Uugantsetseg. You can call me Clora</h1>
+<h1 align="center">Hello 👋, I'm Uugantsetseg. You can call me Clara</h1>
 <h3 align="center">Welcome to my GitHub profile. I love programming, solving problem and achieving result from a great challenges.</h3>
 
 - 💬 Ask me about **anything by my email at ts.tsetseg7@gmail.com**
